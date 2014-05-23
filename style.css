@@ -8,3 +8,8 @@ color: #eee;
   font-size: 200%;
   margin-top: 100px;
 }
+
+.slide-content {
+  width: 70%;
+  margin-top: 20px;
+}
