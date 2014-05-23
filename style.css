@@ -1,32 +1,5 @@
-body {
-  background-color: #222;
-  color: #eee;
-}
-
-h1, h3 {
-  font-family: Impact;
-  font-weight: bold;
-  font-style: italic;
-}
-
-pre code {
-  color: #ccc;
-  font-size: 140%;
-}
-
-.keyword {
-  color: #0086b3 !important;
-  font-weight: inherit !important;
-}
-
-.tag {
-  color: #900 !important;
-}
-
-code {
-  background-color: inherit;
-}
-
-em {
-  border-bottom: 1px solid #666;
+#slide-1 {
+background: url('http://ks3373054.kimsufi.com:9000/assets/images/auth/loginbg.jpg');
+background-size: cover;
+color: #eee;
 }
