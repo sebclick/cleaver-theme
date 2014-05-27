@@ -20,7 +20,7 @@ color: #eee;
 }
 
 
-h3:after {
+h3:before {
 background-image: url('http://www.graylog2.fr/wp-content/uploads/2014/05/graylog2_logo.png');
 background-size: 35px 50px;
 background-repeat: no-repeat;
